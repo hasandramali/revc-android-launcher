@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">revc</string>
+    <string name="action_about">About</string>
+    <string name="about_text">Made by 1sh0zer\n:3 UwU OwO</string>
+    <string name="empty_directory">The directory is empty</string>
+    <string name="file_path_hint">Path to game files</string>
+    <string name="browse_path">Browse</string>
+    <string name="select_folder">Select folder</string>
+    <string name="launch">Launch</string>
+</resources>
